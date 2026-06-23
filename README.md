@@ -113,7 +113,6 @@ dump(clf, 'models/logistic_model.pkl')
 
 Notes:
 - The repository currently includes the analysis notebook; for production-ready reproducibility, consider adding a `scripts/train_models.py` and a small `Makefile` or `tasks` scripts to standardize steps.
-- If you want, I can add a simple training script and a `scripts/` folder. 
 
 ## Files
 
