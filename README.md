@@ -19,3 +19,68 @@ streamworks-churn-analysis/
     ├── residual_plot.png
     ├── heatmap.png
     └── boxplot_watchhours.png
+
+## Project Overview
+
+This project analyzes customer churn for StreamWorks Media using Python and Machine Learning.
+
+The objective is to understand customer behavior, identify churn patterns and build predictive models that support business retention strategies.
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy
+
+---
+
+## Project Workflow
+
+- Data Loading
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Statistical Analysis
+- Logistic Regression
+- Linear Regression
+- Business Insights
+
+---
+
+## Key Results
+
+- Customer churn analysis
+- Correlation analysis
+- Chi-square test
+- Independent t-test
+- Logistic Regression model
+- Linear Regression model
+- ROC Curve
+- Residual Plot
+
+---
+
+## Repository Structure
+
+```
+data/
+images/
+Week3project.ipynb
+Week3_Report.pdf
+requirements.txt
+README.md
+```
+
+---
+
+## Author
+
+Edou Ndong
+
+Data Analytics & Data Engineering Portfolio
